@@ -50,7 +50,3 @@ The `patterns.txt` file contains several common patterns:
 
 To use these patterns, uncomment the relevant section in patterns.txt, then press 'L' in the game.
 
-## Tests
-
-```
-python test_patterns.py# Conway-s-Game-of-Life
